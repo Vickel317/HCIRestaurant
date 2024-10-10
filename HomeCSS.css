@@ -2,7 +2,6 @@ body{
     margin: 0px;
     background-position:center;
     background-size: 100%;
-    background-image: url('Image/ikkudoramen.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed; /* To make sure the background stay still and won't duplicate itself to fill the page*/
     font-family: 'Courier New', Courier, monospace; /* The font that's used for everything*/
