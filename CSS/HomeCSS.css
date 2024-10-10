@@ -8,7 +8,7 @@ body{
     font-family: 'Courier New', Courier, monospace; /* The font that's used for everything*/
 }
 
-@media (min-height: 768px){
+@media (min-height: 560px){
     body{
         background-image: url('Image/ikkudoramen.jpg');
         background-size: cover;
