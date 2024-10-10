@@ -10,6 +10,7 @@ body{
 
 @media (min-height: 768px){
     body{
+        background-image: url('Image/ikkudoramen.jpg');
         background-size: cover;
     }
     .footer{
