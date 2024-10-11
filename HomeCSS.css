@@ -8,7 +8,7 @@ body{
     font-family: 'Courier New', Courier, monospace; /* The font that's used for everything*/
 }
 
-@media (min-height: 768px){ /*To make it accessible from phone
+@media (min-height: 768px){ /*To make it accessible from phone*/
     body{
         background-size: cover;
     }
