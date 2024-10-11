@@ -8,12 +8,13 @@ body{
     font-family: 'Courier New', Courier, monospace; /* The font that's used for everything*/
 }
 
-@media (min-height: 768px){
+@media (min-height: 768px){ /*To make it accessible from phone
     body{
         background-size: cover;
     }
     .footer{
         position: fixed;
+        padding: 10px;
     }
 }
 /* CSS for navigation bar*/
